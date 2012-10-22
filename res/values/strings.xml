@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Droids have heart</string>
+    <string name="app_name">Hearts</string>
+    <string name="showpile">Show Pile</string>
+    <string name="showvoids">Show Voids</string>
+    <string name="showhand">Show Hand</string>
+    <string name="pass">Pass</string>
+    <string name="info">Info</string>
+    <string name="playcard">Play Card</string>
+    <string name="pop">Pop</string>
+    <string name="name">Name</string>
+    <string name="Diff">Difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="start">Start</string>
+    <string name="One">1</string>
+        <string-array name="Seat">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+        <string name="spadess">s = ?</string>
+        <string name="clubsc">c = ?</string>
+        <string name="diamondsd">d = ?</string>
+        <string name="heartsh">h = ?</string>
+        <string name="player1">P1</string>
+        <string name="player3">P3</string>
+        <string name="player2">P2</string>
+        
+        <string name="player4">P4</string>
+        
+        <string name="unknown">**</string>
+        
+        <string name="random">Random</string>
+        <string name="round">Round=0</string>
+        
+        <string name="next">Next</string>
+        
+        <string name="hint">Hint</string>
+        
+        <string name="Previous">DeBug</string>
+        
+        <string name="exit">Exit</string>
+        
+        <string name="menu">Deck</string>
+        
+        <string name="card1">Card1</string>
+        
+        <string name="card2">Card2</string>
+        <string name="card3">Card3</string>
+        <string name="card4">Card4</string>
+        <string name="playState">playState++</string>
+        <string name="clear">Table</string>
+        <string name="p1Score">P1:0 points</string>
+        <string name="p2Score">P2:0 points</string>
+        <string name="p3Score">P3:0 points</string>
+        <string name="p4Score">P4:0 points</string>
+        <string name="you">You</string>
+        <string name="startuphelp">Touch the card you want to play, wait for your turn, then press \'Play Card\' \r\nArrow buttons to move through your Cards \r\nIf you get lost just hit \'Next\'.</string>
+        <string name="resume">Resume</string>
+        <string name="helperVoids">Track Voids</string>
+        <string name="dropShuffle">Drop Shuffle</string>
+        <string name="randomSwap">Random Swap</string>
+        <string name="playerHelper">Player helper</string>
+        <string name="pileMix">Mix Shuffle</string>
+        <string name="swipeLeft">&lt;--</string>
+        <string name="swipeRight">--&gt;</string>
+        <string name="SkyTim">Skylar and Tim</string>
+</resources>
